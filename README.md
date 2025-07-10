@@ -1,33 +1,31 @@
 # STC51duino
-基于[STC](https://www.stcmcudata.com/)公司的8051内核的系类单片机的arduino软件开发支持包，目前先做STC89C52RC这款学习型单片机的支持包，方便开发者学习使用
-后续将陆续适配STC12/STC15/STC8等主流系类芯片。
+based on[STC](https://www.stcmcudata.com/)The company's Arduino software development support package for 8051 core series microcontrollers. Currently, we are working on the support package for the STC89C52RC learning microcontroller to facilitate developers to learn and use it. In the future, we will gradually adapt to mainstream series chips such as STC12/STC15/STC8.
+## STC51duino development board Arduino IDE support package installation
 
-## STC51duino开发板Arduino IDE支持包安装
+1、**File->Preferences**
 
-1、**文件->首选项**
+2、Enter the following URL in the Additional Development Board Manager URL:
 
-2、在附加开发板管理器网址输入如下网址：
-
-> https://cdn.jsdelivr.net/gh/nulllaborg/nulllab_stc51duino/package_nulllab_stc51duino_proxy_index.json
+>https://raw.githubusercontent.com/rapee-jan/nulllab_stc51duino/refs/heads/main/package_nulllab_stc51duino_proxy_index.json 
 
 ![](./doc/option_zh.png)
 
-3、**工具->开发板->开发板管理**
-搜索STC51duino,选择最新版本安装（如果搜索不到，请安装arduino IDE1.8.15以上）
+3、**Tools->Development Board->Development Board Management**
+Search for STC51duino and select the latest version to install (if it cannot be found, please install Arduino IDE 1.8.15 or above)
 
 ![board_manage_zh](./doc/board_manager_zh.png)
 
-4、**工具->开发板**
+4、**Tools->Development Board**
 ![](./doc/board_chioce.png)
 
-代表STC51duino开发环境搭建完成
+The STC51duino development environment is now complete.
 
-## nulllab STC51duino开发计划
-打勾的代表已经实现并验证，没有打勾的代表正在开发中，期待更多开发者一起维护
+## nulllab STC51duino development plan
+The ones with a check mark have been implemented and verified, and the ones without a check mark are under development. We look forward to more developers maintaining them together.
 
-- [x] [开发STC8951C52_Duino学习型开发板]()
-- [ ] [开发STC公司8051系类单片机的ISP命令行工具开发]()
-- [ ] [开发STC8951C52RC+芯片的arduino api对接]()
-- [ ] [开发STC15F2K60S2_Duino学习型开发板]()
-- [ ] [开发STC12C5A60S2_Duino学习型开发板]()
-- [ ] [开发STC8H8K64S4U_Duino学习型开发板]()
+- [x] [Development of STC8951C52_Duino learning development board]()
+- [ ] [Development of ISP command line tool for STC's 8051 series microcontrollers]()
+- [ ] [Develop Arduino API for STC8951C52RC+ chip]()
+- [ ] [Development of STC15F2K60S2_Duino learning development board]()
+- [ ] [Development of STC12C5A60S2_Duino learning development board]()
+- [ ] [Development of STC8H8K64S4U_Duino learning development board]()
