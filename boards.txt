@@ -101,11 +101,11 @@ stc8.menu.mode.medium.build.stdlib=medium
 stc8.menu.mode.huge=huge
 stc8.menu.mode.huge.build.stdlib=huge
 
-stc8.menu.vcc_mv.default=default
-stc8.menu.vcc_mv.v50=+5.0V
-stc8.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
-stc8.menu.vcc_mv.v33=+3.3V
-stc8.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
+#stc8.menu.vcc_mv.default=default
+#stc8.menu.vcc_mv.v50=+5.0V
+#stc8.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
+#stc8.menu.vcc_mv.v33=+3.3V
+#stc8.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
 
 stc8.menu.intlib.long=int+long
 stc8.menu.intlib.long.build.ilib=-llibint -lliblong
@@ -179,11 +179,11 @@ stc15.menu.mode.medium.build.stdlib=medium
 stc15.menu.mode.huge=huge
 stc15.menu.mode.huge.build.stdlib=huge
 
-stc15.menu.vcc_mv.default=default
-stc15.menu.vcc_mv.v50=+5.0V
-stc15.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
-stc15.menu.vcc_mv.v33=+3.3V
-stc15.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
+#stc15.menu.vcc_mv.default=default
+#stc15.menu.vcc_mv.v50=+5.0V
+#stc15.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
+#stc15.menu.vcc_mv.v33=+3.3V
+#stc15.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
 
 stc15.menu.intlib.long=int+long
 stc15.menu.intlib.long.build.ilib=-llibint -lliblong
@@ -258,11 +258,11 @@ stc12.menu.mode.medium.build.stdlib=medium
 stc12.menu.mode.huge=huge
 stc12.menu.mode.huge.build.stdlib=huge
 
-stc12.menu.vcc_mv.default=default
-stc12.menu.vcc_mv.v50=+5.0V
-stc12.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
-stc12.menu.vcc_mv.v33=+3.3V
-stc12.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
+#stc12.menu.vcc_mv.default=default
+#stc12.menu.vcc_mv.v50=+5.0V
+#stc12.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
+#stc12.menu.vcc_mv.v33=+3.3V
+#stc12.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
 
 stc12.menu.intlib.long=int+long
 stc12.menu.intlib.long.build.ilib=-llibint -lliblong
@@ -333,11 +333,11 @@ stc89.menu.mode.medium.build.stdlib=medium
 stc89.menu.mode.huge=huge
 stc89.menu.mode.huge.build.stdlib=huge
 
-stc89.menu.vcc_mv.default=default
-stc89.menu.vcc_mv.v50=+5.0V
-stc89.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
-stc89.menu.vcc_mv.v33=+3.3V
-stc89.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
+#stc89.menu.vcc_mv.default=default
+#stc89.menu.vcc_mv.v50=+5.0V
+#stc89.menu.vcc_mv.v50.build.vcc=-DMENU_VCC=5000
+#stc89.menu.vcc_mv.v33=+3.3V
+#stc89.menu.vcc_mv.v33.build.vcc=-DMENU_VCC=3300
 
 stc89.menu.intlib.long=int+long
 stc89.menu.intlib.long.build.ilib=-llibint -lliblong
