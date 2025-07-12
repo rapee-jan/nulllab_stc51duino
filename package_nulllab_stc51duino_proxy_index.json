@@ -74,7 +74,7 @@
                 {
                     "name": "STC51Duino mcs51 plain C core (non-C++)",
                     "architecture": "mcs51",
-                    "version": "0.0.2.1",
+                    "version": "0.0.2-1",
                     "checksum":"SHA-256:a999bca80cb254eec25dac2d8d42557d450e6ec340eab997494062433f19d2ee",
                     "category": "Contributed",
                     "url": "https://github.com/rapee-jan/nulllab_stc51duino/archive/refs/tags/v0.0.2-rev1.zip",
